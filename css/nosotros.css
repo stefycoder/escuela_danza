@@ -1,0 +1,65 @@
+.profe{
+	background:url("../img/dance_7.jpg") no-repeat;
+	background-size:140% 180%;
+	height: 460px;
+	background-position: 2% 40%;
+}
+.nosotros{
+	width: 530px;
+	background-color: #726F68;
+	background-color: rgba(0, 0, 0, 0.6);
+	position: relative;
+	top:125px;
+	left: 190px;
+	padding: 50px;
+}
+.nosotros p{
+	color:#D7D1CB;
+	padding-top: 15px;
+	font-size: 13px;
+}
+.pila{
+	background:url("../img/cubes.png") repeat;
+	height: 300px;
+	color: #C3C3C3;
+}
+.pilas h1{
+	padding-bottom: 10px;
+	color: #A1A2A4;
+}
+hr{
+	width: 230px;
+	margin-left: 30px;
+	border: 1px solid
+}
+.pilas p{
+	font-size: 15px;
+	padding: 20px;
+}
+.intruc h1{
+	padding: 30px;
+}
+.imagen img{
+	width: 250px;
+	height: 230px;
+	padding: 20px;
+}
+.titulo{
+	height: 60px;
+	width: 100%;
+	background-color: white;
+	position: relative;
+	top:-60px;
+	padding: 20px;
+	font-size: 13px;
+}
+.titulo h3{
+	padding-bottom: 10px;
+}
+.ofert2{
+	height: 200px;
+	background: url("../img/cubes.png")repeat;
+	font-size: 40px;
+	font-style: italic;
+	padding-top: 70px;
+}

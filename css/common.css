@@ -1,0 +1,71 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.pag{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-weight: bolder;
+}
+nav ul{
+	list-style-type: none;
+	font-size: 14px;
+	margin-top: 15px;
+}
+nav li{
+	position: relative;
+	float: left;
+	left: 200px;
+	color: #BEBEBE;
+	padding-left: 50px;
+	margin-bottom: 20px;
+}
+nav li:hover a{
+	background: #1E2A4A;
+}
+nav a{
+	padding:15px 15px;
+	color: #BEBEBE;
+	text-decoration: none;
+}
+.contactar{
+	height: 470px;
+	background: url("../img/shoes_1.jpg")no-repeat;
+	background-position: 100%; 
+}
+input{
+	border:none;
+	padding-left: 15px;
+}
+i{
+	padding: 5px;
+	color: #3B3B3B;
+	width: 20px;
+	height: 20px;
+}
+.nombre{
+	border:1px solid #DCDCDC;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+.mensaje{
+	height: 140px;
+}
+.boton3{
+	background-color:#1A2952;
+	border:1px #1A2952 solid;
+	padding: 10px 185px;
+	font-size: 20px;
+}
+.contac h1{
+	padding-top: 50px;
+	padding-bottom: 20px;
+	color: #1A2952;
+}
+footer{
+	background: #1A2952;
+	color: #DCDCDC;
+	height: 50px;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-left: 15px;
+}

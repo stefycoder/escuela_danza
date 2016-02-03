@@ -1,0 +1,101 @@
+.danza{
+	height: 470px;
+	background: url("../img/dance_1.jpg");
+	background-position: 55% 5%; 
+	background-repeat: no-repeat;
+}
+.studio{
+	padding : 80px 0 0 100px;
+	width: 300px;
+	color: #BEBEBE;
+}
+.studio h1{
+	font-size: 60px;
+}
+.studio p{
+	padding-right: 25px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+.incribete{ 
+	background-color: #030F1F;
+	padding: 10px 30px;
+	border:1px #030F1F solid;
+	margin-top: 20px;
+}
+.ofert{
+	height: 400px;
+	background: url("../img/textura_2.jpg");
+}
+.datos p{
+	padding-top: 70px;
+	font-size: 32px;
+}
+.datos img{
+	width: 115px;
+	margin-bottom: 30px;
+	position: relative;
+	left: 115px;
+}
+.boton1{
+	color:#BEBEBE; 
+	background-color:#1A2952;
+	padding: 12px 60px;
+	font-size: 15px;
+	border:1px #1A2952 solid;
+	border-radius: 3%;
+	position: relative;
+	right: 60px;
+}
+.saltos{
+	height: 325px;
+}
+.salto1{
+	background:url('../img/instructor_4.JPG') ;
+	background-size: 100%;
+	width: 50%;
+	height: 325px;
+	border:2px solid #1A2952;
+}
+.salto2{
+	background: url("../img/profesor_9.jpg");
+	background-size: 100%;
+	width: 50%;
+	height: 325px;
+	border:2px solid #1A2952;
+}
+button{
+	color:#BEBEBE; 
+}
+.boton2{
+	background-color:#1A2952;
+	border:1px #1A2952 solid;
+	padding: 25px 172px;
+	font-size: 20px;
+	position: relative;
+	left: 405px;
+	top: -78px;
+}
+.ofert2{
+	height: 280px;
+	background: url("../img/textura_2.jpg");
+	font-size: 40px;
+	font-style: italic;
+	padding-top: 95px;
+}
+.visitanos{
+	background: #1A2952;
+	height: 350px;
+	color: #BEBEBE;
+}
+.textbajo{
+	font-size: 12px;
+	padding: 50px 200px 0 80px;
+}
+.text2{
+	padding-top: 50px;
+}
+.textbajo h1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
